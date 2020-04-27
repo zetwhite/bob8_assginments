@@ -1,0 +1,9 @@
+__libc_start_main
+abort
+getrusage
+memcpy
+memmove
+memset
+read
+sbrk
+write
